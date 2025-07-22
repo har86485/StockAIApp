@@ -1,1 +1,1 @@
-iOS project files placeholder.
+Android platform-specific files will be here.

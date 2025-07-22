@@ -1,6 +1,6 @@
 
 name: stock_ai_app
-description: A high-quality AI-powered stock market app
+description: AI powered stock market Flutter app
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  cupertino_icons: ^1.0.2
   http: ^0.13.5
 
 dev_dependencies:
