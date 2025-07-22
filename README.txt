@@ -1,1 +1,1 @@
-Test platform-specific files will be here.
+Ios platform-specific files will be here.
