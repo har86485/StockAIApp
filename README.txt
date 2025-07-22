@@ -1,1 +1,1 @@
-Ios platform-specific files will be here.
+Android platform-specific files will be here.
