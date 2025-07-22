@@ -1,1 +1,1 @@
-Android platform-specific files will be here.
+Test platform-specific files will be here.
