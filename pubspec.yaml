@@ -1,12 +1,11 @@
 
 name: stock_ai_app
-description: A simple AI-powered stock market app
+description: A high-quality AI-powered stock market app
 publish_to: 'none'
-
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.19.0 <3.0.0"
+  sdk: ">=2.17.0 <3.0.0"
 
 dependencies:
   flutter:
