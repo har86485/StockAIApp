@@ -1,1 +1,1 @@
-Android project files placeholder.
+iOS project files placeholder.
